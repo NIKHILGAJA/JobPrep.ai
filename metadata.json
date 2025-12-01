@@ -1,0 +1,7 @@
+{
+  "name": "JobPrep.ai",
+  "description": "A comprehensive AI-powered job preparation suite featuring Resume Analysis, JD Matching, ATS Scoring, and Mock Interviews powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
